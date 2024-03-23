@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malakhusseinnn
-- 👀 I’m interested in ...c++, python, javascript, HTML
-- 🌱 I’m currently learning ...c++
+- 👀 I’m interested in ...C++, python, javascript, HTML
+- 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...various projects 
 - 📫 How to reach me ...with  My email 
 - 😄 Pronouns: ...
